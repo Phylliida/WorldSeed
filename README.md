@@ -76,3 +76,16 @@ Creatures:
 - [ ] Muscle Simulations
 - [ ] Learning to walk using muscle simulations
 - [ ] Procedural audio
+
+Clothing:
+
+- [ ] Material rendering (of many types)
+- [ ] Fit to body
+
+Weapons:
+
+- [ ] (todo)
+
+Spells:
+
+- [ ] (todo)
