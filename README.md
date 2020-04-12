@@ -46,3 +46,33 @@ High level goals
 - Any content created can be exported in formats that are compatable with other major tools (Maya, Blender, Unreal Engine, Godot, Vr Chat, etc.)
 - Lots of examples and tutorials to help users get an idea of what is possible. Tight feedback loop for improving tools.
 - In terms of programming, everything should be functional whenever possible. Heavy use of Parallel LINQ to do parallelization. Code needs to stay clean or this will get unweildly very quickly.
+
+
+What has been completed so far?
+---------------
+This is very much a work in progress. I have a full time job, this is just a hobby project. Here is the general order I plan on doing things:
+
+Trees:
+
+- [ ] Synthetic Silviculture (aside from the texture piece)
+- [ ] Procedural Textures for trees and leafs
+- [ ] Procedural Leaf Model
+
+Terrain:
+
+- [ ] Basic heighmap-ish terrain (distorted from a flat surface) with procedural textures based on material
+- [ ] Erosion geology simulation (to be filled out once I do more research)
+
+Creatures:
+
+- [ ] Basic Creature Skeleton model with procedural animations (no face, just body)
+- [ ] Procedural animation (not using learning with muscles)
+- [ ] Fur/Hair rendering
+- [ ] Eyes
+- [ ] Mouth
+- [ ] Nose
+- [ ] Ears
+- [ ] Fingers/Toes
+- [ ] Muscle Simulations
+- [ ] Learning to walk using muscle simulations
+- [ ] Procedural audio
