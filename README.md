@@ -6,7 +6,7 @@ Plants
 
 Using the [Synthetic Silviculture](https://storage.googleapis.com/pirk.io/projects/synthetic_silviculture/index.html) approach, allowing creation of vegitation suited for various biomes by just specifying temperature and precipitation (more fine grained control will also be available, of course).
 
-Once I finish reproducing that work, I will work on procedural textures for bark from the great procedural book, and procedural leafs using [this technique](https://www.comp.nus.edu.sg/~leowwk/thesis/saurabhgarg-thesis.pdf).
+Once I finish reproducing that work, I will work on procedural textures for bark from the great procedural book, and procedural leafs usingf [this technique](https://www.comp.nus.edu.sg/~leowwk/thesis/saurabhgarg-thesis.pdf).
 
 Creatures
 ----------------
